@@ -25,4 +25,4 @@ Aqui estão algumas ferramentas e linguagens que utilizo ou estou estudando:
 
 ## 📫 Vamos nos conectar?
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusvitorsilva1106@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusvitorsilva1106@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-silva-965522409)
