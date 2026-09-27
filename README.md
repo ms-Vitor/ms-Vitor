@@ -2,7 +2,7 @@
 
 ### Estudante de Sistemas de Informação | Desenvolvedor focado em Soluções Empresariais
 
-Sou um entusiasta da tecnologia atualmente no **3º período de Sistemas de Informação**. Meu objetivo principal é utilizar o código como ferramenta para criar softwares que otimizem processos, aumentem a produtividade e resolvam problemas reais dentro do ambiente corporativo.
+Sou um entusiasta da tecnologia atualmente no **4º período de Sistemas de Informação**. Meu objetivo principal é utilizar o código como ferramenta para criar softwares que otimizem processos, aumentem a produtividade e resolvam problemas reais dentro do ambiente corporativo.
 
 ---
 
