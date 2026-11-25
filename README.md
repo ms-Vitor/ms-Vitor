@@ -20,7 +20,7 @@ Sou um entusiasta da tecnologia atualmente no **4º período de Sistemas de Info
 
 Aqui estão algumas ferramentas e linguagens que utilizo ou estou estudando:
 
-![My Skills](https://skillicons.dev/icons?i=java,python,cpp,git,github)
+![My Skills](https://skillicons.dev/icons?i=java,python,git,github)
 
 
 ## 📫 Vamos nos conectar?
